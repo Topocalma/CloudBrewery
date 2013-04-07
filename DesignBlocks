@@ -1,27 +1,27 @@
 Design blocks [breakdown of design responsibilities]
 
-Gravity fed system
-•  Layout Architecture
-•	Hot water kettle incl. heating setup
-•	Mash/lauter tun  including heating setup
-•	Kettle incl. heating setup and insulation
-•	Temperatur control setup including sizing of heating elements and electricity supply
-•	Cooling facility
-•	Fermentation tank
-•	Gas burner adaptation of tuns and kettles
-•	Variant mesh tun with false bottom plus lauter tun
-•	Stand for containers (i.e. to put it all together)
+1. Gravity fed system
+1.1. Layout Architecture
+1.2.	Hot water kettle incl. heating setup
+1.3.	Mash/lauter tun  including heating setup
+1.4.	Kettle incl. heating setup and insulation
+1.5.	Temperatur control setup including sizing of heating elements and electricity supply
+1.6.	Cooling facility
+1.7.	Fermentation tank
+1.8.	Gas burner adaptation of tuns and kettles
+1.9.	Variant mesh tun with false bottom plus lauter tun
+1.10. Stand for containers (i.e. to put it all together)
 
-2-Tier system
-•	Architecture
-•	Choice and specs of pump (s)
-•	Pipes and valve
+2. 2-Tier system
+2.1.	Architecture
+2.2.	Choice and specs of pump (s)
+2.3.	Pipes and valve
 3-Tier system
-•	Architecture
-•	Choice and specs of pump (s)
-•	Pipes and valve
+2.4.	Architecture
+2.5.	Choice and specs of pump (s)
+2.6. Pipes and valve
 
-3-Tier system
-•  Architecture
-•	Choice and specs of pump (s)
-•	Pipes and valve
+3. 3-Tier system
+3.1.  Architecture
+3.2. Choice and specs of pump (s)
+3.3. Pipes and valve
